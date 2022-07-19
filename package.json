@@ -1,0 +1,23 @@
+{
+  "name": "express-back-end-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinysheep007/express-back-end-API-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinysheep007/express-back-end-API-test/issues"
+  },
+  "homepage": "https://github.com/tinysheep007/express-back-end-API-test#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
